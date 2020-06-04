@@ -1,0 +1,28 @@
+<idea-plugin>
+  <id>com.ajaaibu.pitch.dark</id>
+  <name>Pitch Black</name>
+  <version>1.0</version>
+  <vendor email="ajaaibu@gmail.com" url="https://twitter.com/ajaaibu">ajaaibu</vendor>
+
+  <description><![CDATA[
+    Pitch Black is a theme for those who love a simple dark appearance. It is a work in progress. Color scheme is based
+    on Monokai Pro, modified to align with the IDE theme.
+    ]]></description>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="c4bfd4ef-e159-4efa-9ac9-da34363c5728" path="/PitchBlack.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>

@@ -1,0 +1,105 @@
+{
+  "name": "ajaaibu",
+  "dark": true,
+  "author": "Ajaaibu",
+  "editorScheme": "/MonokaiDark.xml",
+  "colors": {
+    "defaultBackgroundColor": "#181818",
+    "popupBackgroundColor": "#1f1f1f"
+  },
+  "ui": {
+    "Borders": {
+      "color": "popupBackgroundColor"
+    },
+    "Panel.background": "defaultBackgroundColor",
+    "SidePanel.background": "defaultBackgroundColor",
+    "Tree.background": "defaultBackgroundColor",
+    "EditorPane.background": "defaultBackgroundColor",
+    "TabbedPane.background": "defaultBackgroundColor",
+    "EditorTabs.background": "defaultBackgroundColor",
+    "OptionPane.background": "defaultBackgroundColor",
+    "Button.background": "defaultBackgroundColor",
+    "DefaultTabs.background": "defaultBackgroundColor",
+    "Editor.background": "defaultBackgroundColor",
+    "ComboBoxButton.background": "defaultBackgroundColor",
+    "SplitPane.background": "defaultBackgroundColor",
+    "TableHeader.background": "defaultBackgroundColor",
+    "Label.background": "defaultBackgroundColor",
+    "CheckBox.background": "defaultBackgroundColor",
+    "Notification.background": "defaultBackgroundColor",
+    "Plugins.background": "defaultBackgroundColor",
+    "TextPane.background": "defaultBackgroundColor",
+    "TitlePane.background": "defaultBackgroundColor",
+    "ToolWindow.Header.background": "defaultBackgroundColor",
+    "Popup.Toolbar.background": "defaultBackgorundColor",
+    "Viewport.background": "defaultBackgroundColor",
+    "WelcomeScreen.background": "defaultBackgroundColor",
+    "WelcomeScreen.Projects.background": "defaultBackgroundColor",
+    "SearchEverywhere": {
+      "Header": {
+        "background": "popupBackgroundColor"
+      },
+      "SearchField": {
+        "background": "popupBackgroundColor",
+        "borderColor": "#252525"
+      },
+      "Advertiser": {
+        "background": "popupBackgroundColor"
+      },
+      "List.separatorColor": "defaultBackgroundColor",
+      "List.separatorForeground": "defaultBackgroundColor"
+    },
+    "List.background": "popupBackgroundColor",
+    "ScrollPane.background": "popupBackgroundColor",
+    "ScrollBar.background": "popupBackgroundColor",
+    "ToolTip.background": "popupBackgroundColor",
+    "PopupMenu.background": "popupBackgroundColor",
+    "Popup.Advertiser.background": "popupBackgroundColor",
+    "Menu.background": "popupBackgroundColor",
+    "MenuBar.selectionBackground": "popupBakgroundColor",
+    "MenuItem.background": "popupBackgroundColor",
+    "Menu.separatorColor": "#252525",
+    "ComboBox.background": "popupBackgroundColor",
+    "ComboBox.selectionBackground": "defaultBackgroundColor",
+    "ToolTip.Actions.background": "popupBackgroundColor",
+    "ToolWindow.Header.inactiveBackground": "defaultBackgroundColor",
+    "ToolWindow.Header.borderColor": "popupBackgroundColor",
+    "EditorTabs.borderColor": "popupBackgroundColor",
+    "StatusBar.borderColor": "popupBackgroundColor",
+    "ToolBar.borderHandleColor": "popupBackgroundColor",
+    "GutterTooltip.lineSeparatorColor": "popupBackgroundColor",
+    "*": {
+      "hoverBackground": "#333333",
+      "selectedBackground": "#333333"
+    }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Actions.Blue": "#5da3f4",
+      "Actions.Green": "#2fc864",
+      "Actions.Grey": "#858994",
+      "Actions.GreyInline.Dark": "#2fc864",
+      "Actions.GreyInline": "#777777",
+      "Actions.Red": "#ff5554",
+      "Actions.Yellow": "#f1fa8c",
+      "Objects.Blue": "#5da3f4",
+      "Objects.Green": "#2fc864",
+      "Objects.GreenAndroid": "#2fc864",
+      "Objects.Grey": "#858994",
+      "Objects.Pink": "#ff79c6",
+      "Objects.Purple": "#bd93f9",
+      "Objects.Red": "#ff5554",
+      "Objects.RedStatus": "#ff5554",
+      "Objects.Yellow": "#f1fa8c",
+      "Objects.YellowDark": "#f1fa8c",
+      "Objects.BlackText": "#282a35",
+      "Checkbox.Border.Default.Dark": "#222222",
+      "Checkbox.Border.Selected.Dark": "#333333",
+      "Checkbox.Background.Default.Dark": "#444444",
+      "Checkbox.Foreground.Selected.Dark": "#f8f8f2",
+      "Checkbox.Focus.Wide.Dark": "#bd93f9",
+      "Checkbox.Focus.Thin.Selected.Dark": "#bd93f9",
+      "Checkbox.Focus.Thin.Default.Dark": "#bd93f9"
+    }
+  }
+}
